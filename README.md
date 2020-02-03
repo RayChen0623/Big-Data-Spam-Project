@@ -19,4 +19,4 @@ Email dataset which collected by personal gmail
 - logistic regression
 
 ## Result
-Used Naive Bayes and logistic regression to achieve 92 prediction accuracy. Url: https://github.com/RayChen0623/Big-Data-Spam-Project/blob/master/Spam_filter_(Big%20Data).py
+Used Naive Bayes and logistic regression to achieve 92 prediction accuracy. Link: https://github.com/RayChen0623/Big-Data-Spam-Project/blob/master/Spam_filter_(Big%20Data).py
